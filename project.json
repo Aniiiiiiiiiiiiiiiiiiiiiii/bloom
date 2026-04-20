@@ -1,0 +1,28 @@
+{
+  "overview": "BLOOM is a K-pop fan entertainment hub for ILLIT, BTS, Cortis, and LE SSERAFIM. Each group has its own beautifully themed section with streaming charts, fun games, and member facts — making it the ultimate fan destination.",
+  "features": [
+    "4 dedicated group sections (ILLIT, BTS, Cortis, LE SSERAFIM)",
+    "Streaming charts with bar, line, and pie chart visualizations",
+    "Heardle-style song guessing game with 6 attempts",
+    "K-pop trivia quiz with 30+ questions per group",
+    "Photo guess game — identify members from blurred photos",
+    "Member profile cards with bios and fun facts",
+    "Discography timeline for each group",
+    "20+ fun facts per group with favoriting",
+    "Distinct color themes per group",
+    "Responsive, animated design with dark mode"
+  ],
+  "category": "entertainment",
+  "tags": [
+    "kpop",
+    "fan-app",
+    "music",
+    "games",
+    "charts",
+    "bts",
+    "illit",
+    "le-sserafim",
+    "entertainment"
+  ],
+  "last_updated": "2026-04-20T14:35:55.513Z"
+}
